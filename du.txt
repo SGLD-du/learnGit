@@ -4,3 +4,4 @@ Git has mutable index called stage.<LICENSE>
 Git tracks changes of files.123456
 This is a test HEAD^.
 犯了一个大错误！！！！！！
+Creating a new branch is quick.
